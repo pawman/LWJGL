@@ -18,6 +18,8 @@ public class GameData {
 	
 	
 	public GameData() {
+		System.out.println("Welcom to LWJGL");
+		
 		ships = new ArrayList<>();
 		planets = new ArrayList<>();
 		buletts = new ArrayList<>();
