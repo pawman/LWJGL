@@ -9,6 +9,7 @@ public class Checkpoint {
 		this.tile = tile;
 		this.xDirextion = xDirextion;
 		this.yDirexction = yDirexction;
+		
 	}
 
 
